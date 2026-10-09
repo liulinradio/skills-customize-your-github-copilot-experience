@@ -72,6 +72,25 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-testing-with-pytest",
+      "title": "Your First Python Tests with pytest",
+      "description": "Practice automated testing by writing pytest assertions for Python functions and edge cases.",
+      "path": "assignments/python-testing-with-pytest",
+      "dueDate": "2026-10-16",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter_code.py",
+          "type": "python"
+        },
+        {
+          "name": "Test File",
+          "file": "test_starter_code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
